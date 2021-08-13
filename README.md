@@ -30,7 +30,7 @@ This is a template of the simple to-do list. Based on ReactJS library.
 - Others<br>
 ![SCSS](https://img.shields.io/badge/SCSS-27.2%25-bf4080?logo=Html5&logoColor=bf4080&style=for-the-badge)<br>
 ![HTML5](https://img.shields.io/badge/HTML5-14.4%25-e34c26?logo=HTML5&logoColor=e34c26&style=for-the-badge)<br>
-![CSS3](https://img.shields.io/badge/CSS3-3.1%25-563d7c?logo=CSS3&logoColor=563d7c&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-3.1%25-563d7c?logo=CSS3&logoColor=fff&style=for-the-badge)
 
 - Through:<br>
 [![React](https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=React&logoColor=61dafb)](https://reactjs.org/)<br>

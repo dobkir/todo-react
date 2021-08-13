@@ -1,68 +1,80 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# ![To-do list icon](https://img.icons8.com/ios/50/000000/checklist--v2.png) Simple to-do list on ReactJS ![To-do list icon](https://img.icons8.com/ios/50/000000/checklist--v2.png) 
 
-## Available Scripts
+[![Contributors][contributors-shield]][contributors-url]&nbsp;
+[![Forks][forks-shield]][forks-url]&nbsp;
+[![Stargazers][stars-shield]][stars-url]&nbsp;
+[![Issues][issues-shield]][issues-url]&nbsp;
+[![MIT License][license-shield]][license-url]&nbsp;
+![Repository size][repo-size-shield]&nbsp;
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-In the project directory, you can run:
+![Website trailer][product-screenshot]
 
-### `yarn start`
+<!-- WORK DESCRIPTION -->
+## Work description
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This is a template of the simple to-do list. Based on ReactJS library.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<!-- LINK TO WEBSITE -->
+## [Come here](https://dobkir.github.io/todo-react/) to watch this web application on your Web Browser
 
-### `yarn test`
+<!-- TOOLS -->
+### Built With
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Languages<br>
+![Languages][languages-shield]
 
-### `yarn build`
+- Main language<br>
+![Main language][main-language-shield]
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Others<br>
+![SCSS](https://img.shields.io/badge/SCSS-27.2%25-bf4080?logo=Html5&logoColor=bf4080&style=for-the-badge)<br>
+![HTML5](https://img.shields.io/badge/HTML5-14.4%25-e34c26?logo=HTML5&logoColor=e34c26&style=for-the-badge)<br>
+![CSS3](https://img.shields.io/badge/CSS3-3.1%25-563d7c?logo=CSS3&logoColor=563d7c&style=for-the-badge)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- Through:<br>
+[![React](https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=React&logoColor=61dafb)](https://reactjs.org/)<br>
+[![NodeJS](https://img.shields.io/badge/Node.js-026e00?style=for-the-badge&logo=Node.js&logoColor=fff)](https://nodejs.org/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+- IDE<br>
+![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)<br>
+ [VSCode](https://code.visualstudio.com/)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<!-- LICENSE -->
+## License
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Distributed under the MIT License. See [LICENSE](LICENSE.txt) for more information.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<!-- CONTACT -->
+## Contact
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:p.kirillov2020@gmail.com)](mailto:p.kirillov2020@gmail.com)
 
-## Learn More
+Project Link: [https://github.com/dobkir/todo-react](https://github.com/dobkir/todo-react)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+- [ICONS8](https://icons8.com/)
+- [Img Shields](https://shields.io)
+- [Choose an Open Source License](https://choosealicense.com)
+- [GitHub Pages](https://pages.github.com)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/dobkir/todo-react.svg?style=for-the-badge
+[contributors-url]: https://github.com/dobkir/todo-react/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dobkir/todo-react.svg?style=for-the-badge
+[forks-url]: https://github.com/dobkir/todo-react/network/members
+[stars-shield]: https://img.shields.io/github/stars/dobkir/todo-react.svg?style=for-the-badge
+[stars-url]: https://github.com/dobkir/todo-react/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dobkir/todo-react.svg?style=for-the-badge
+[issues-url]: https://github.com/dobkir/todo-react/issues
+[license-shield]: https://img.shields.io/github/license/dobkir/todo-react.svg?style=for-the-badge
+[license-url]: https://github.com/dobkir/todo-react/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/pavel-kirillov-dobkir
+[repo-size-shield]: https://img.shields.io/github/repo-size/dobkir/todo-react.svg?style=for-the-badge
+[languages-shield]: https://img.shields.io/github/languages/count/dobkir/todo-react.svg?style=for-the-badge
+[main-language-shield]: https://img.shields.io/github/languages/top/dobkir/todo-react.svg?style=for-the-badge&color=f1e05a
+[product-screenshot]: https://github.com/dobkir/trailers/blob/master/todo_react_trailer/todo_react_trailer.gif

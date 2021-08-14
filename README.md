@@ -1,4 +1,4 @@
-# ![To-do list icon](https://img.icons8.com/ios/50/000000/checklist--v2.png) Simple to-do list on ReactJS ![To-do list icon](https://img.icons8.com/ios/50/000000/checklist--v2.png) 
+# ![To-do list icon](https://img.icons8.com/ios/36/7bb9ec/checklist--v2.png) Simple to-do list on ReactJS ![To-do list icon](https://img.icons8.com/ios/36/7bb9ec/checklist--v2.png) 
 
 [![Contributors][contributors-shield]][contributors-url]&nbsp;
 [![Forks][forks-shield]][forks-url]&nbsp;
